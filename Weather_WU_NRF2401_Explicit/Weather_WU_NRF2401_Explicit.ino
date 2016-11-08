@@ -25,6 +25,7 @@ float hum;  //Stores humidity value
 float temp; //Stores temperature value
 float temperature; //Float for Fahrenheit
 float pressure_TS; //Float for BMP180 val
+float newfloat; //Testing for git
 
 
 // Defines
