@@ -4,8 +4,7 @@
 #include <Wire.h>
 #include <SPI.h>
 #include <RH_NRF24.h>
-//Testing this feature
-//New line here to test out the testing one
+Testing this feature
 
 //Constants
 #define DHTPIN 4     // what pin we're connected to
