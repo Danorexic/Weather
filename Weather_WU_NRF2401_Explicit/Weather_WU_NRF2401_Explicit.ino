@@ -4,7 +4,6 @@
 #include <Wire.h>
 #include <SPI.h>
 #include <RH_NRF24.h>
-#include <bullshit.h>
 
 //Constants
 #define DHTPIN 4     // what pin we're connected to
